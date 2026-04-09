@@ -6,11 +6,10 @@
 
 ## 🌐 Live Demo
 
-🚀 *Add your deployed links here*
 
-* Frontend: `https://your-frontend-url.com`
-* Backend: `https://your-backend-url.com`
 
+Frontend Live    : https://sylcchi-palace.vercel.app/
+Backend Live     : https://sylcchi-backend.vercel.app/
 ---
 
 ## 📌 Project Overview
