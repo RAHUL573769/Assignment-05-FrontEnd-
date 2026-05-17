@@ -1,32 +1,29 @@
-# 🏨 Sylcchi Palace Bookings
+# 🏨 Furnova
 
-> A modern hotel booking platform built with cutting-edge web technologies for a smooth and elegant user experience.
 
+Experience the pinnacle of craftsmanship with our curated collection of artisanal furniture. Designed for those who appreciate the finer things in life.
 ---
 
 ## 🌐 Live Demo
 
 
 
-Frontend Live    : https://sylcchi-palace.vercel.app/
-Backend Live     : https://sylcchi-backend.vercel.app/
+Frontend Live    : https://c-fornuva.vercel.app/
+
 ---
 
 ## 📌 Project Overview
 
-**Sylcchi Palace Bookings** is a full-featured hotel booking web application that allows users to explore rooms, read news, and make bookings seamlessly.
-
-Designed with performance, scalability, and user experience in mind, this project leverages modern tools like Next.js and TypeScript.
-
+Furnova ia a Furniture Purchasing Website
 ---
 
 ## ✨ Features
 
-* 🛏️ Browse available rooms with detailed information
+* 🛏️ Browse available furnitures with detailed information
 * 📅 Seamless booking system
 * 🔐 Authentication system (Login/Register)
 * 📰 News/blog section with dynamic routing
-* 🖼️ Image gallery for hotel showcase
+* 🖼️ Image gallery for furniture showcase
 * 📱 Fully responsive design
 * ⚡ Fast performance with Next.js
 * 🧾 Form validation using React Hook Form + Zod
@@ -142,9 +139,6 @@ npm run build
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add some UI screenshots here to make the README more attractive*
 
 ---
 
